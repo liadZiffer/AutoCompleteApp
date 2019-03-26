@@ -1,4 +1,4 @@
-Welcome to the AutoCompleteApp wiki!
+Welcome to the AutoCompleteApp!
 
 Hey,
 
